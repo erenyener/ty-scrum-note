@@ -1,0 +1,2113 @@
+<rss version="0.92">
+<channel>
+<title>SubTask Export (JIRA)</title>
+<link>http://jtracker.trendyol.com/issues/?filter=14940</link>
+<description>An XML representation of a search request</description>
+<language>en-us</language>
+<issue start="0" end="43" total="43"/>
+<build-info>
+<version>7.3.6</version>
+<build-number>73017</build-number>
+<build-date>25-04-2017</build-date>
+</build-info>
+<item>
+<title>
+[MW-288] Search Autocomplete ve Suggestion iyileştirmelerinin MWeb'e entegre edilmesi - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-288</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81400">MW-288</key>
+<summary>
+Search Autocomplete ve Suggestion iyileştirmelerinin MWeb'e entegre edilmesi - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="77792">MW-119</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:46:58 +0300</created>
+<updated>Thu, 23 Nov 2017 11:46:58 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avo7:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-287] Search Autocomplete ve Suggestion iyileştirmelerinin MWeb'e entegre edilmesi
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-287</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81399">MW-287</key>
+<summary>
+Search Autocomplete ve Suggestion iyileştirmelerinin MWeb'e entegre edilmesi
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="77792">MW-119</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:46:39 +0300</created>
+<updated>Thu, 23 Nov 2017 11:46:39 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="14400">4 hours</timeoriginalestimate>
+<timeestimate seconds="14400">4 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avnz:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-286] Search Autocomplete ve Suggestion iyileştirmelerinin MWeb'e entegre edilmesi
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-286</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81398">MW-286</key>
+<summary>
+Search Autocomplete ve Suggestion iyileştirmelerinin MWeb'e entegre edilmesi
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="77792">MW-119</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:45:09 +0300</created>
+<updated>Thu, 23 Nov 2017 11:45:09 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="18000">5 hours</timeoriginalestimate>
+<timeestimate seconds="18000">5 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avnr:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-285] Branch.io - Eventlerin eklenmesi - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-285</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81390">MW-285</key>
+<summary>Branch.io - Eventlerin eklenmesi - Selçuk Test</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="78832">MW-180</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:23:44 +0300</created>
+<updated>Thu, 23 Nov 2017 11:23:44 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avm7:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="561">Cat Sprint 11</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-284] Branch.io snippetı'nın head tagi'ne eklenmesi ve native entegrasyonun kurulması - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-284</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81389">MW-284</key>
+<summary>
+Branch.io snippetı'nın head tagi'ne eklenmesi ve native entegrasyonun kurulması - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="78833">MW-175</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:22:20 +0300</created>
+<updated>Thu, 23 Nov 2017 11:22:20 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avlz:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="561">Cat Sprint 11</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-283] Digital Marketing Analisti olarak IT'den direkt Google Analytics'e yollanan eventleri GTM üzerinden kendim aktarmak istiyorum. - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-283</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81386">MW-283</key>
+<summary>
+Digital Marketing Analisti olarak IT'den direkt Google Analytics'e yollanan eventleri GTM üzerinden kendim aktarmak istiyorum. - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="78841">MW-177</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:16:05 +0300</created>
+<updated>Thu, 23 Nov 2017 11:16:28 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avlb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-282] Digital Marketing Analisti olarak IT'den direkt Google Analytics'e yollanan eventleri GTM üzerinden kendim aktarmak istiyorum.
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-282</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81385">MW-282</key>
+<summary>
+Digital Marketing Analisti olarak IT'den direkt Google Analytics'e yollanan eventleri GTM üzerinden kendim aktarmak istiyorum.
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="78841">MW-177</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:15:47 +0300</created>
+<updated>Thu, 23 Nov 2017 11:15:47 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="7200">2 hours</timeoriginalestimate>
+<timeestimate seconds="7200">2 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avl3:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-281] Sekme, Butik, Ürün, Search Sayfalara Canonical Tagi'nin Eklenmesi - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-281</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81380">MW-281</key>
+<summary>
+Sekme, Butik, Ürün, Search Sayfalara Canonical Tagi'nin Eklenmesi - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="80469">MW-248</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:12:03 +0300</created>
+<updated>Thu, 23 Nov 2017 11:12:03 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avjz:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-280] İphone 4 / Sepetin güncellendi pop-u'ında devam et butonuna tıklanmıyor
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-280</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81370">MW-280</key>
+<summary>
+İphone 4 / Sepetin güncellendi pop-u'ında devam et butonuna tıklanmıyor
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="80806">MW-258</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:00:27 +0300</created>
+<updated>Thu, 23 Nov 2017 11:00:27 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="3600">1 hour</timeoriginalestimate>
+<timeestimate seconds="3600">1 hour</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avhr:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-279] İphone 4 / Sepetin güncellendi pop-u'ında devam et butonuna tıklanmıyor
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-279</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81369">MW-279</key>
+<summary>
+İphone 4 / Sepetin güncellendi pop-u'ında devam et butonuna tıklanmıyor
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="80806">MW-258</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:00:17 +0300</created>
+<updated>Thu, 23 Nov 2017 11:00:17 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="14400">4 hours</timeoriginalestimate>
+<timeestimate seconds="14400">4 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Known Issue</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avhj:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-278] MobilWeb / Ürün Listeleme Sayfalarındaki Header Elementlerinin sticky tutulup test edilmesi
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-278</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81368">MW-278</key>
+<summary>
+MobilWeb / Ürün Listeleme Sayfalarındaki Header Elementlerinin sticky tutulup test edilmesi
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="74017">MW-40</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 10:58:55 +0300</created>
+<updated>Thu, 23 Nov 2017 10:58:55 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="28800">1 day</timeoriginalestimate>
+<timeestimate seconds="28800">1 day</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avhb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-277] MobilWeb / Ürün Listeleme Sayfalarındaki Header Elementlerinin sticky tutulup test edilmesi
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-277</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81367">MW-277</key>
+<summary>
+MobilWeb / Ürün Listeleme Sayfalarındaki Header Elementlerinin sticky tutulup test edilmesi
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="74017">MW-40</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="mutlu.adiyaman">Mutlu Adıyaman</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 10:57:07 +0300</created>
+<updated>Thu, 23 Nov 2017 15:54:01 +0300</updated>
+<resolved>Thu, 23 Nov 2017 15:53:56 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="14400">4 hours</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<timespent seconds="14400">4 hours</timespent>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avh3:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-270] Sekme, Butik, Ürün, Search Sayfalara Canonical Tagi'nin Eklenmesi
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-270</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="81022">MW-270</key>
+<summary>
+Sekme, Butik, Ürün, Search Sayfalara Canonical Tagi'nin Eklenmesi
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="80469">MW-248</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="gamze.senturk">Gamze Şentürk</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Mon, 20 Nov 2017 10:02:35 +0300</created>
+<updated>Tue, 21 Nov 2017 11:43:24 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="3600">1 hour</timeoriginalestimate>
+<timeestimate seconds="3600">1 hour</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0atmv:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>[MW-187] Branch.io - Eventlerin eklenmesi</title>
+<link>http://jtracker.trendyol.com/browse/MW-187</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="79106">MW-187</key>
+<summary>Branch.io - Eventlerin eklenmesi</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="78832">MW-180</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="ozge.cakir">Özge Çakır</reporter>
+<labels></labels>
+<created>Wed, 25 Oct 2017 10:42:04 +0300</created>
+<updated>Wed, 25 Oct 2017 10:42:04 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="14400">4 hours</timeoriginalestimate>
+<timeestimate seconds="14400">4 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0ak3b:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="561">Cat Sprint 11</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[MW-186] Branch.io snippetı'nın head tagi'ne eklenmesi ve native entegrasyonun kurulması
+</title>
+<link>http://jtracker.trendyol.com/browse/MW-186</link>
+<project id="12200" key="MW">Mobil Web</project>
+<description/>
+<environment/>
+<key id="79105">MW-186</key>
+<summary>
+Branch.io snippetı'nın head tagi'ne eklenmesi ve native entegrasyonun kurulması
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="78833">MW-175</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="eren.yener">Eren Yener</assignee>
+<reporter username="ozge.cakir">Özge Çakır</reporter>
+<labels></labels>
+<created>Wed, 25 Oct 2017 10:41:00 +0300</created>
+<updated>Wed, 22 Nov 2017 20:06:00 +0300</updated>
+<resolved>Wed, 22 Nov 2017 20:06:00 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="21600">6 hours</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<timespent seconds="3600">1 hour</timespent>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0ak33:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="561">Cat Sprint 11</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>[CAT-1990] Ab Testing Nuget Library oluşturulması</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1990</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81397">CAT-1990</key>
+<summary>Ab Testing Nuget Library oluşturulması</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="81341">CAT-1971</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="gokhan.gokun">Gökhan Gökün</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:41:33 +0300</created>
+<updated>Fri, 24 Nov 2017 10:04:57 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="57600">2 days</timeoriginalestimate>
+<timeestimate seconds="57600">2 days</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Technical Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avnj:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>[CAT-1989] XML feed Task Minification</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1989</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81396">CAT-1989</key>
+<summary>XML feed Task Minification</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="81330">CAT-1970</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:36:29 +0300</created>
+<updated>Thu, 23 Nov 2017 11:36:47 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="3600">1 hour</timeoriginalestimate>
+<timeestimate seconds="3600">1 hour</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avnb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1988] Autocomplete de gelen ilk önerinin gender'a göre ayrıstırılmasını istiyorum.
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1988</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81394">CAT-1988</key>
+<summary>
+Autocomplete de gelen ilk önerinin gender'a göre ayrıstırılmasını istiyorum.
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="74471">CAT-1346</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:28:53 +0300</created>
+<updated>Thu, 23 Nov 2017 11:28:53 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="28800">1 day</timeoriginalestimate>
+<timeestimate seconds="28800">1 day</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avmv:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1987] Autocomplete de gelen ilk önerinin gender'a göre ayrıstırılmasını istiyorum.
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1987</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81393">CAT-1987</key>
+<summary>
+Autocomplete de gelen ilk önerinin gender'a göre ayrıstırılmasını istiyorum.
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="74471">CAT-1346</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="gokhan.gokun">Gökhan Gökün</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:28:44 +0300</created>
+<updated>Thu, 23 Nov 2017 15:53:20 +0300</updated>
+<resolved>Thu, 23 Nov 2017 15:53:20 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="28800">1 day</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avmn:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1986] Single Datalayer - Desktop Brand & Category & Search Result - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1986</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81388">CAT-1986</key>
+<summary>
+Single Datalayer - Desktop Brand & Category & Search Result - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="78030">CAT-1776</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:20:39 +0300</created>
+<updated>Thu, 23 Nov 2017 11:20:39 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avlr:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1985] Single Datalayer - Desktop Brand & Category & Search Result
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1985</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81387">CAT-1985</key>
+<summary>
+Single Datalayer - Desktop Brand & Category & Search Result
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="78030">CAT-1776</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:20:18 +0300</created>
+<updated>Thu, 23 Nov 2017 11:20:18 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="86400">3 days</timeoriginalestimate>
+<timeestimate seconds="86400">3 days</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Technical Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avlj:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1984] SEO Uzmanı olarak sitede aynı ürünün sadece bir linki olmasını istiyorum böylece crawl budget artışını ve duplicate content oluşmasını engelleyebilirim-Teknik Analiz
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1984</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81384">CAT-1984</key>
+<summary>
+SEO Uzmanı olarak sitede aynı ürünün sadece bir linki olmasını istiyorum böylece crawl budget artışını ve duplicate content oluşmasını engelleyebilirim-Teknik Analiz
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="78834">CAT-1896</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:14:20 +0300</created>
+<updated>Thu, 23 Nov 2017 11:14:20 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="28800">1 day</timeoriginalestimate>
+<timeestimate seconds="28800">1 day</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avkv:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1983] Footer HTML'inin SEO Ekibiyle Paylaşılıp Sonra Güncellenmesi - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1983</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81383">CAT-1983</key>
+<summary>
+Footer HTML'inin SEO Ekibiyle Paylaşılıp Sonra Güncellenmesi - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="81248">CAT-1966</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:13:55 +0300</created>
+<updated>Thu, 23 Nov 2017 11:13:55 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avkn:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1982] Footer HTML'inin SEO Ekibiyle Paylaşılıp Sonra Güncellenmesi
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1982</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81382">CAT-1982</key>
+<summary>
+Footer HTML'inin SEO Ekibiyle Paylaşılıp Sonra Güncellenmesi
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="81248">CAT-1966</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:13:37 +0300</created>
+<updated>Thu, 23 Nov 2017 11:13:37 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="10800">3 hours</timeoriginalestimate>
+<timeestimate seconds="10800">3 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avkf:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>[CAT-1981] Forget Password Commona taşınması</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1981</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81379">CAT-1981</key>
+<summary>Forget Password Commona taşınması</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="81284">CAT-1969</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:11:38 +0300</created>
+<updated>Thu, 23 Nov 2017 11:11:38 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="14400">4 hours</timeoriginalestimate>
+<timeestimate seconds="14400">4 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avjr:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>[CAT-1980] Forget Password Commona taşınması</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1980</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81378">CAT-1980</key>
+<summary>Forget Password Commona taşınması</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="81284">CAT-1969</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:10:58 +0300</created>
+<updated>Thu, 23 Nov 2017 11:10:58 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="7200">2 hours</timeoriginalestimate>
+<timeestimate seconds="7200">2 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avjj:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1979] Product Manager olarak müşterilerin unsuggested search kullanımlarını ölçmek istiyorum - Selçuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1979</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81377">CAT-1979</key>
+<summary>
+Product Manager olarak müşterilerin unsuggested search kullanımlarını ölçmek istiyorum - Selçuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="81011">CAT-1961</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="selcuk.karpuz">Selçuk Karpuz</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:08:45 +0300</created>
+<updated>Fri, 24 Nov 2017 09:53:43 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avjb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1978] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - TEST
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1978</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81376">CAT-1978</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - TEST
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="80204">CAT-1931</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:07:46 +0300</created>
+<updated>Thu, 23 Nov 2017 11:07:46 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="144000">1 week</timeoriginalestimate>
+<timeestimate seconds="144000">1 week</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avj3:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1977] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - UAT
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1977</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81375">CAT-1977</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - UAT
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="76880">CAT-1623</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:07:14 +0300</created>
+<updated>Thu, 23 Nov 2017 11:07:14 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="28800">1 day</timeoriginalestimate>
+<timeestimate seconds="28800">1 day</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0aviv:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1976] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - Altyapı
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1976</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81374">CAT-1976</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - Altyapı
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="76880">CAT-1623</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:06:20 +0300</created>
+<updated>Thu, 23 Nov 2017 11:06:20 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="86400">3 days</timeoriginalestimate>
+<timeestimate seconds="86400">3 days</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avin:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1975] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - Altyapı
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1975</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81373">CAT-1975</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - Altyapı
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="76880">CAT-1623</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:06:13 +0300</created>
+<updated>Thu, 23 Nov 2017 11:06:13 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="86400">3 days</timeoriginalestimate>
+<timeestimate seconds="86400">3 days</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avif:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>[CAT-1974] Web Anonymous Sepet - TEST</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1974</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81372">CAT-1974</key>
+<summary>Web Anonymous Sepet - TEST</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="80203">CAT-1930</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:05:13 +0300</created>
+<updated>Thu, 23 Nov 2017 11:05:13 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="57600">2 days</timeoriginalestimate>
+<timeestimate seconds="57600">2 days</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avi7:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1973] Loginsiz User'ın Anonymous User ile çalışmasını sağlamak Altyapı
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1973</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81371">CAT-1973</key>
+<summary>
+Loginsiz User'ın Anonymous User ile çalışmasını sağlamak Altyapı
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="79396">CAT-1917</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="onur.eskici">Onur Eskici</reporter>
+<labels></labels>
+<created>Thu, 23 Nov 2017 11:01:26 +0300</created>
+<updated>Thu, 23 Nov 2017 11:01:26 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="7200">2 hours</timeoriginalestimate>
+<timeestimate seconds="7200">2 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avhz:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1972] Product Manager olarak müşterilerin unsuggested search kullanımlarını ölçmek istiyorum.
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1972</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="81344">CAT-1972</key>
+<summary>
+Product Manager olarak müşterilerin unsuggested search kullanımlarını ölçmek istiyorum.
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="81011">CAT-1961</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="eren.yener">Eren Yener</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Wed, 22 Nov 2017 19:44:02 +0300</created>
+<updated>Wed, 22 Nov 2017 19:56:36 +0300</updated>
+<resolved>Wed, 22 Nov 2017 19:56:36 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="3600">1 hour</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<timespent seconds="3600">1 hour</timespent>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0avcf:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1929] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - Altyapı
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1929</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="80192">CAT-1929</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz - Altyapı
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="76880">CAT-1623</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="mutlu.adiyaman">Mutlu Adıyaman</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Wed, 8 Nov 2017 11:28:27 +0300</created>
+<updated>Thu, 23 Nov 2017 10:02:45 +0300</updated>
+<resolved>Thu, 23 Nov 2017 10:02:45 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="28800">1 day</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0apnr:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1928] Loginsiz User'ın Anonymous User ile çalışmasını sağlamak Altyapı
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1928</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="80188">CAT-1928</key>
+<summary>
+Loginsiz User'ın Anonymous User ile çalışmasını sağlamak Altyapı
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="79396">CAT-1917</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="eren.yener">Eren Yener</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Wed, 8 Nov 2017 11:15:23 +0300</created>
+<updated>Thu, 23 Nov 2017 10:03:58 +0300</updated>
+<resolved>Thu, 23 Nov 2017 10:03:58 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="86400">3 days</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0apmv:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1927] Loginsiz User'ın Anonymous User ile çalışmasını sağlamak Altyapı
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1927</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="80187">CAT-1927</key>
+<summary>
+Loginsiz User'ın Anonymous User ile çalışmasını sağlamak Altyapı
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="79396">CAT-1917</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="ibrahim.kalyoncu">İbrahim Kalyoncu</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Wed, 8 Nov 2017 11:15:10 +0300</created>
+<updated>Thu, 23 Nov 2017 10:03:55 +0300</updated>
+<resolved>Thu, 23 Nov 2017 10:03:55 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="144000">1 week</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0apmn:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1915] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz.
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1915</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="79117">CAT-1915</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz.
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="76880">CAT-1623</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="onur.eskici">Onur Eskici</assignee>
+<reporter username="ozge.cakir">Özge Çakır</reporter>
+<labels></labels>
+<created>Wed, 25 Oct 2017 11:05:48 +0300</created>
+<updated>Thu, 23 Nov 2017 10:02:42 +0300</updated>
+<resolved>Thu, 23 Nov 2017 10:02:42 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="144000">1 week</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0ak5r:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1835] Mobile - Digital Marketing Analisti olarak GTM Entegrasyonlarının doğru çalışması için tüm HTML'lerde güncelleme yapılmasını istiyorum. - Selcuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1835</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="78161">CAT-1835</key>
+<summary>
+Mobile - Digital Marketing Analisti olarak GTM Entegrasyonlarının doğru çalışması için tüm HTML'lerde güncelleme yapılmasını istiyorum. - Selcuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="77703">CAT-1738</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Thu, 12 Oct 2017 10:35:31 +0300</created>
+<updated>Thu, 12 Oct 2017 10:35:31 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0afhj:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1834] Mobile - Digital Marketing Analisti olarak GTM Entegrasyonlarının doğru çalışması için tüm HTML'lerde güncelleme yapılmasını istiyorum.
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1834</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="78160">CAT-1834</key>
+<summary>
+Mobile - Digital Marketing Analisti olarak GTM Entegrasyonlarının doğru çalışması için tüm HTML'lerde güncelleme yapılmasını istiyorum.
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="77703">CAT-1738</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Thu, 12 Oct 2017 10:34:54 +0300</created>
+<updated>Thu, 12 Oct 2017 10:34:54 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="7200">2 hours</timeoriginalestimate>
+<timeestimate seconds="7200">2 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0afhb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="579">Cat Sprint 12</customfieldvalue>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1833] MW - Digital Marketing Analisti olarak gtm.js, gtm.dom, gtm.load ve mwPageLoaded eventlerinin tüm sayfalarda gönderilmesini istiyorum. - Selcuk Test
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1833</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="78159">CAT-1833</key>
+<summary>
+MW - Digital Marketing Analisti olarak gtm.js, gtm.dom, gtm.load ve mwPageLoaded eventlerinin tüm sayfalarda gönderilmesini istiyorum. - Selcuk Test
+</summary>
+<type id="11002" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=11800&avatarType=issuetype">Test Sub-task</type>
+<parent id="77710">CAT-1741</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="11206" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/generic.png" description="">New Test</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Thu, 12 Oct 2017 10:34:43 +0300</created>
+<updated>Thu, 23 Nov 2017 10:38:18 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0afh3:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1832] MW - Digital Marketing Analisti olarak gtm.js, gtm.dom, gtm.load ve mwPageLoaded eventlerinin tüm sayfalarda gönderilmesini istiyorum.
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1832</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="78158">CAT-1832</key>
+<summary>
+MW - Digital Marketing Analisti olarak gtm.js, gtm.dom, gtm.load ve mwPageLoaded eventlerinin tüm sayfalarda gönderilmesini istiyorum.
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="77710">CAT-1741</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10203" iconUrl="http://jtracker.trendyol.com/images/icons/statuses/open.png" description="">New</status>
+<statusCategory id="2" key="new" colorName="blue-gray"/>
+<resolution id="-1">Unresolved</resolution>
+<assignee username="-1">Unassigned</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Thu, 12 Oct 2017 10:34:32 +0300</created>
+<updated>Thu, 12 Oct 2017 10:34:32 +0300</updated>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="7200">2 hours</timeoriginalestimate>
+<timeestimate seconds="7200">2 hours</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Technical Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0afgv:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+</customfields>
+</item>
+<item>
+<title>
+[CAT-1641] Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz. - Dev
+</title>
+<link>http://jtracker.trendyol.com/browse/CAT-1641</link>
+<project id="12001" key="CAT">Catalog&Content</project>
+<description/>
+<environment/>
+<key id="76972">CAT-1641</key>
+<summary>
+Web'de butik detayda filtrelerin gösterilebilmesi için product search API yapısına geçilmesini istiyoruz. - Dev
+</summary>
+<type id="5" iconUrl="http://jtracker.trendyol.com/secure/viewavatar?size=xsmall&avatarId=10316&avatarType=issuetype">Sub-task</type>
+<parent id="76880">CAT-1623</parent>
+<priority id="3" iconUrl="http://jtracker.trendyol.com/images/icons/priorities/medium.svg">Medium</priority>
+<status id="10001" iconUrl="http://jtracker.trendyol.com/images/icons/subtask.gif" description="">Done</status>
+<statusCategory id="3" key="done" colorName="green"/>
+<resolution id="10000">Done</resolution>
+<assignee username="ahmetcan.guven">Ahmet Can Güven</assignee>
+<reporter username="eren.yener">Eren Yener</reporter>
+<labels></labels>
+<created>Thu, 28 Sep 2017 09:13:43 +0300</created>
+<updated>Thu, 23 Nov 2017 10:02:38 +0300</updated>
+<resolved>Thu, 23 Nov 2017 10:02:38 +0300</resolved>
+<due/>
+<votes>0</votes>
+<watches>1</watches>
+<timeoriginalestimate seconds="144000">1 week</timeoriginalestimate>
+<timeestimate seconds="0">0 minutes</timeestimate>
+<attachments></attachments>
+<subtasks></subtasks>
+<customfields>
+<customfield id="customfield_10900" key="com.atlassian.jira.plugin.system.customfieldtypes:textfield">
+<customfieldname>Parent Type</customfieldname>
+<customfieldvalues>
+<customfieldvalue>Story</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10009" key="com.pyxis.greenhopper.jira:gh-lexo-rank">
+<customfieldname>Rank</customfieldname>
+<customfieldvalues>
+<customfieldvalue>0|i0a9vb:</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10004" key="com.pyxis.greenhopper.jira:gh-sprint">
+<customfieldname>Sprint</customfieldname>
+<customfieldvalues>
+<customfieldvalue id="591">Cat Sprint 13</customfieldvalue>
+</customfieldvalues>
+</customfield>
+<customfield id="customfield_10201" key="com.atlassian.jira.ext.charting:timeinstatus">
+<customfieldname>[CHART] Time in Status</customfieldname>
+<customfieldvalues></customfieldvalues>
+</customfield>
+</customfields>
+</item>
+</channel>
+</rss>

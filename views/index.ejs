@@ -1,11 +1,152 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-  </body>
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
+<link href="public/style.css" rel="stylesheet">
+<link rel="stylesheet" media="screen" href="">
+<script src='public/xmltojson.js' type='text/javascript'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
+
+<script>
+
+
+window.onload = function() {
+
+        var fileInput = document.getElementById('fileInput');
+		var xmlS = "";
+		
+        fileInput.addEventListener('change', function(e) {
+            var file = fileInput.files[0];
+            var textType = /text.*/;
+
+            if (file.type.match(textType)) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+				
+					document.getElementById('page-wrapper').style.display = "none";
+				
+					xmlS = reader.result;
+	
+					xmlS = xmlS.replace(/\'/, "\"");
+					xmlS = xmlS.replace(/\&/g,'ampersand');
+					xmlS = xmlS.replace(/(\r\n|\n|\r)/gm,"");
+					
+					var template = '<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 {{customClass}}">            <div class="post-it">              <p class="sticky taped">                       <span class="parent-task">{{subtaskparentnumber}}</span><br>               <strong class="subtask-number">{{subtasknumber}}</strong>                           <span class="subtask-title">                    {{subtasktitle}}                </span>                <span class="subtask-remaining-time">                    {{remainingtime}}                </span>                <br>              </p>            </div>            </div>'
+					var jsonifiedJiraObject = xmlToJSON.parseString(xmlS); 
+					var items = jsonifiedJiraObject.rss[0].channel[0].item;
+					console.log(items);
+					var totalTime = 0;
+					items.forEach(function(item){
+						console.log(item);
+						var itemType = "D";
+						var customClass = "development";
+						
+						
+						if(!!item.type){
+							itemType = item.type[0]._text === "Test Sub-task" ? "T" : "D";
+							customClass = item.type[0]._text === "Test Sub-task" ? "test" : "development";
+							
+						}
+						
+						var replacableTitle = ''
+						if(!!item.key){
+							replacableTitle = "[" + item.key[0]._text + "]";
+						}
+						
+						var title = '';
+						if(!!item.title){
+							title = item.title[0]._text.replace(replacableTitle, "");
+						}
+						 
+						
+						 
+
+						var timeInHours = 0;
+						console.log(replacableTitle);
+						if(!!item.timeestimate && item.timeestimate.length > 0 && item.timeestimate[0]._attr != null){
+							var remainingHoursParsed = parseInt(item.timeestimate[0]._attr.seconds._value)/3600;
+							if(remainingHoursParsed < 1){
+								remainingHoursParsed = 1;
+							}
+							totalTime+= remainingHoursParsed;
+							timeInHours= remainingHoursParsed + "h";
+						}
+						  
+						
+						if(timeInHours < 1){
+							timeInHours = '1h';
+						}
+						
+						
+						
+						var subtaskNumber = (!!item && !!item.key && item.key.length > 0) ? item.key[0]._text : '';
+						var parentText = (!!item && !!item.parent && item.parent.length > 0) ? item.parent[0]._text : '';
+						var tempTemplate = template.replace("{{subtasktype}}", itemType);
+						
+
+						tempTemplate = tempTemplate.replace("{{subtaskparentnumber}}", parentText);
+						
+						tempTemplate = tempTemplate.replace("{{subtasknumber}}", subtaskNumber);
+						tempTemplate = tempTemplate.replace("{{subtasktitle}}", title);
+						
+						if(title.toLowerCase().indexOf('uat') > -1){
+							tempTemplate = tempTemplate.replace("{{customClass}}", customClass + ' uat-template') ;
+						}else if(title.toLowerCase().indexOf('selcuk') > -1 || title.toLowerCase().indexOf('selçuk') > -1){
+							tempTemplate = tempTemplate.replace("{{customClass}}", customClass + ' selcuk-template') ;
+						}
+						
+						else{
+							tempTemplate = tempTemplate.replace("{{customClass}}", customClass) ;
+						}
+						
+						
+						
+						tempTemplate = tempTemplate.replace("{{remainingtime}}", timeInHours);
+						
+						if(parentText !== ''){
+							$('.row').append(tempTemplate);
+						}
+						
+						
+						
+					});
+					
+					console.log("total time -> " + totalTime);
+                }
+
+                reader.readAsText(file);    
+            } else {
+                xmlS = "File not supported!"
+            }
+        });	
+}
+
+	
+
+</script>
+
+<script src='public/parseAndAppend.js' type='text/javascript'></script>
+</head>
+
+<body>
+<div id="page-wrapper">
+
+        <h1>Select <span style="color: blue">taskXML.txt<s/pan></h1>
+        <div>
+            <input type="file" id="fileInput">
+        </div>
+    </div>
+
+
+<div class="container">
+    <div class="row">
+        
+            
+        </div>
+    </div>
+</div>
+</body>
+
 </html>

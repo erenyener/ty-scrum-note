@@ -1,0 +1,181 @@
+@import url(https://fonts.googleapis.com/css?family=Give+You+Glory|The+Girl+Next+Door|Gloria+Hallelujah|Indie+Flower);
+
+body {
+	margin: 0;
+	padding: 0;
+	-webkit-print-color-adjust: exact;
+	 background: #fff;
+}
+
+.container{
+	margin:0;
+	padding:0;
+	float:left;
+}
+
+.row{
+	float:left;
+	padding: 0 -10px;
+}
+
+.col-sm-6 {
+	width: 46%;
+    display: inline-block;
+	padding: 9px;
+}
+
+.post-it {
+  float:left;
+  width: 100% !important;
+  min-height: 30px;
+}
+.sticky {	
+	float: left;
+	height: 317px;
+	background-image: linear-gradient(90deg, rgba(255, 4, 4, 0) 79px, rgba(0, 0, 0, 0) 79px, #f4f39e 81px, transparent 81px), linear-gradient(rgba(181, 181, 181, 0.9) .1em, transparent .1em);
+	background-size: 100% 1.2em;
+	-webkit-box-shadow: #DDD 0px 1px 2px;
+	position: relative;
+	background-color: #F4F39E;
+	border-color: #DEE184;
+	color: black;
+	text-align: center;
+	-webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+	box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+	width: 100%;
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Give You Glory', cursive;
+	font-family: 'The Girl Next Door', cursive;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+span.parent-task {
+	position: absolute;
+    top: 20px;
+	left: 20px;
+    border-radius: 50%;
+    border: 3px solid blue;
+    color: blue;
+    width: 120px;
+    height: 40px;
+    font-size: 22px;
+}
+
+span.subtask-type {
+    position: absolute;
+	top: 20px;
+    right: 20px;
+    border-radius: 50%;
+    border: 3px solid red;
+    color: red;
+    width: 40px;
+    height: 40px;
+    font-size: 27px;
+}
+
+.post-it {}
+.taped {
+  text-align: center;
+  /* vertical-align: middle; */
+}
+.note { 
+
+  -webkit-box-shadow: #DDD 0px 1px 2px ;
+  position: relative;
+  background-color: #F4F39E;
+  border-color: #DEE184;
+  text-align: center;
+  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+  width: 250px;
+  font-family: 'The Girl Next Door', cursive; /*originally with brain flower font*/
+  font-size: 1em;
+  min-height:300px;
+
+}
+.note:after {
+  display: block;
+  content: "";
+  position: absolute; 
+  width: 110px;
+  height: 30px;
+  top: -21px;
+  left: 30%;    
+  border: 1px solid #fff;
+  background: rgba(254, 254, 254, .6);
+  -webkit-box-shadow: 0px 0 3px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 0 3px rgba(0,0,0,0.1);
+  box-shadow: 0px 0 3px rgba(0,0,0,0.1);  
+}
+
+strong.subtask-number {
+    font-size: 30px;
+    line-height: 30px;
+    display: block;
+    width: 100%;
+    margin-left: 176px;
+    margin-top: -6px;
+}
+
+span.subtask-remaining-time {
+    position: absolute;
+    left: 10px;
+    font-size: 45x;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 19px;
+    bottom: 6px;
+    height: 70px;
+    font-size: 35px;
+    padding: 10px;
+    border-radius: 50%;
+    text-decoration: underline;
+
+}
+
+
+span.subtask-title {
+	float: left;
+    text-align: center;
+    margin: 30px 20px;
+    line-height: 36px;
+    font-size: 22px;
+	font-weight:bold;
+}
+
+.subtask-assignee{
+    position: absolute;
+    left: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 19px;
+    bottom: 0;
+    border-right: 3px solid #F44336 !important;
+    border-top: 3px solid #F44336;
+    height: 70px;
+    font-size: 24px;
+    min-width:200px;
+}
+
+.test > .post-it > p.sticky.taped {
+    background-color: #ffcbcb;
+}
+
+
+.uat-template > .post-it > p.sticky.taped {
+    background-color: #8bb7f7;
+}
+
+.selcuk-template > .post-it > p.sticky.taped {
+    background-color: #8bf792;
+}
+
+
+
